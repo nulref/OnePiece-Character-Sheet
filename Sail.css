@@ -246,17 +246,17 @@ div:last-child.sheet-subsection-nontable-row {
 .sheet-scroll-left {
 	width: 16px;
 	height: 16px;
-	background: url("https://raw.githubusercontent.com/cyanobacterium/Roll20-DnD5E-Character-Scrolls/master/sprite-sheet.png") no-repeat;
+	background: url("https://raw.githubusercontent.com/nulref/OnePiece-Character-Sheet/main/sprite-sheet.png") no-repeat;
 	background-position: -160px -48px;
 }
 .sheet-scroll-right {
 	width: 16px;
 	height: 16px;
-	background: url("https://raw.githubusercontent.com/cyanobacterium/Roll20-DnD5E-Character-Scrolls/master/sprite-sheet.png") no-repeat;
+	background: url("https://raw.githubusercontent.com/nulref/OnePiece-Character-Sheet/main/sprite-sheet.png") no-repeat;
 	background-position: -160px -80px;
 }
 .sheet-paper-background {
-	background: url("https://i.imgur.com/a/YqaNSwY") no-repeat;
+	background: url("https://raw.githubusercontent.com/nulref/OnePiece-Character-Sheet/main/section-content-background.png") no-repeat;
 	background-size: 100% 100%
 }
 /***************************/
